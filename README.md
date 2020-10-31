@@ -4,7 +4,7 @@ Not able to upload all csv files as they were too large for GitHub.
 
 Tableau Homework - Citi Bike Analytics
 
-efore You Begin This assignment will be saved to your Tableau Public account rather than GitHub.
+This assignment will be saved to your Tableau Public account rather than GitHub.
 
 If you haven't already, be sure to create a Tableau Public account here.
 
